@@ -1,5 +1,18 @@
 # WPの投稿
 
+## 設定
+
+### WPダッシュボードへのログイン
+
+* URL
+  * https://shiraminejingu.or.jp/login_89105
+* ニックネーム
+  * shiramine
+* Mail Address
+  * asukai@shiraminejingu.or.jp
+* Pass Word
+  * e58c97e69d91
+
 ## ダッシュボードのメニューから投稿のページへ移動
 
 <img src="./01.png" style="width: 500px">
