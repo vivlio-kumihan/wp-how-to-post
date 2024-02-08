@@ -1,0 +1,15 @@
+{
+  "name": "wpmanual",
+  "description": "wpManual",
+  "version": "0.0.0",
+  "author": "Nobuyuki Takahiro <vivlio@kumihan.com>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "MIT",
+  "private": true
+}

@@ -1,0 +1,26 @@
+@page {
+  size: A4;
+}
+.dashbord01 {
+  width: 100mm;
+  margin: 0.25rem 0 1.5rem 1rem;
+}
+
+.secret-info div {
+  display: flex;
+  width: 60%;
+  margin-left: 1rem;
+}
+.secret-info div dt, .secret-info div dd {
+  padding-left: 0.5rem;
+}
+.secret-info div dt {
+  width: 7rem;
+}
+.secret-info div:first-of-type {
+  padding-bottom: 0.5rem;
+}
+.secret-info div + div {
+  padding: 0.5rem 0;
+  border-top: 1px dotted #777;
+}/*# sourceMappingURL=style.css.map */
